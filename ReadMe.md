@@ -15,6 +15,7 @@
 10. 享元模式
 11. 解释器模式
 12. 外观模式 
+
 ### 二. android项目中mvc mvp mvvm以及clean架构
 1. MVC
 2. MVP
