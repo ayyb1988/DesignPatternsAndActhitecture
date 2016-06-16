@@ -31,3 +31,5 @@
 
 
 ## 参考
+[googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
+[android_design_patterns_analysis](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
